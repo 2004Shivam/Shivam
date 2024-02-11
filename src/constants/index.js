@@ -46,7 +46,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Frontend Developer",
     icon: mobile,
   },
   {
@@ -80,26 +80,11 @@ const technologies = [
     name: "React JS",
     icon: reactjs,
   },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
-  },
-  {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
-    name: "MongoDB",
-    icon: mongodb,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
+  
+  
+ 
+ 
+ 
   {
     name: "git",
     icon: git,
@@ -116,55 +101,52 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "March 2020 - April 2021",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
-    iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Varsha Nagar Mumbai Public School, Mumbai",
+    company_name: "SSC",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Jun 2014 - Mar 2019",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Completed 10th Standard with a focus on science subjects.",
+      "Cleared a scholarship exam, receiving appreciation for academic excellence.",
+      "Had been part of CAL(Computer-Aided Learning): facilitating collaborative learning.",
+      "KER (Kids Education Revolution): Engaged in initiatives promoting innovative learning methodologies and educational equity.",
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Meta",
+    title: "Ratanbai Walbai Junior College of Science, Mumbai",
+    company_name: "HSC",
+    icon: tesla,
+    iconBg: "#E6DEDD",
+    date: "Aug 2019 - Feb 2022",
+    points: [
+      "Completed Higher Secondary Certificate (HSC) with a focus on Physics, Chemistry, and Mathematics.",
+      "Opted for additional subjects including Electrical Maintenance, demonstrating practical skills in the field.",
+    ],
+  },
+  {
+    title: "Ramniranjan Jhunjhunwala College, Mumbai",
+    company_name: "Graduation",
+    icon: starbucks,
+    iconBg: "#383E56",
+    date: "Oct 2022 - Apr 2025",
+    points: [
+      "Currently enrolled in the Bachelor of Science program with a focus on Computer Science.",
+      "Actively engaging in coursework related to computer science principles, programming languages, and software development.",
+      "Actively learning various programming languages and technologies including C, Java, Python, HTML, CSS, and ASP.NET.",
+    ],
+  },
+  {
+    title: "NPTEL Online Courses",
+    company_name: "Online",
     icon: meta,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Enrolled in online courses offered by NPTEL, conducted by IIT, including:",
+      "Programming, Data Structures And Algorithms Using Python.",
+      "Privacy and Security in Online Social Media.",
+      "Applying knowledge gained from NPTEL courses to enhance understanding and skills in computer science.",
     ],
   },
 ];
@@ -172,35 +154,35 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
+      "I thought it was impossible to make a website as beautiful as our product, but Shivam proved me wrong.",
+    name: "Rohan Mehta",
     designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    company: "Skyview Technologies Pvt. Ltd.",
+    image: "https://randomuser.me/api/portraits/men/7.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
+      "I've never met a web developer who truly cares about their clients' success like Shivam does.",
+    name: "Priya Patel",
     designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    company: "Brightway Solutions Inc.",
+    image: "https://randomuser.me/api/portraits/women/84.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
+      "After Shivam optimized our website, our traffic increased by 50%. We can't thank them enough!",
+    name: "Sanjay Sharma",
     designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    company: "Quantum Innovations LLP",
+    image: "https://randomuser.me/api/portraits/men/39.jpg",
   },
 ];
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Portfolio Website",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Welcome to my 3D portfolio website! Dive into a collection of my latest projects showcasing skills in 3D modeling, animation, and design. Explore captivating visuals and discover the world of 3D artistry. Feel free to navigate through the virtual gallery and unleash your creativity!",
     tags: [
       {
         name: "react",
@@ -216,28 +198,28 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://www.instagram.com/__the.confused.boy__/",
   },
   {
-    name: "Job IT",
+    name: "Electronics shop",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A static website showcasing cutting-edge electronics. Dive into a world of sleek smartphones, powerful laptops, and innovative smart home solutions. With detailed product descriptions and a user-friendly interface, this project offers a seamless browsing experience for tech enthusiasts and casual shoppers alike.",
     tags: [
       {
-        name: "react",
+        name: "html",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "css",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "javascript",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://www.instagram.com/__the.confused.boy__/",
   },
   {
     name: "Trip Guide",
@@ -258,7 +240,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://www.instagram.com/__the.confused.boy__/",
   },
 ];
 
